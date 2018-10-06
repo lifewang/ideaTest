@@ -4,4 +4,6 @@ idea配置git
 idea关联github
 #### settings——>version control——>github——>登录自己注册的github账号——>apply
 从git下载到idea
-#### chectout from version control——>git
+#### VCS——>chectout from version control——>git
+在idea上测试上传文件到github
+####  VCS——>import into version control——>share project on github
